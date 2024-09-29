@@ -30,4 +30,4 @@ Instructions on how to set up and run project :
 View Live Demo
 
 ## Resume
-[View My Resume](jobvision.ir/cv/75397075-123138)
+[View My Resume](https://jobvision.ir/cv/75397075-123138)
