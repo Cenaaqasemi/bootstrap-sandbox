@@ -1,0 +1,41 @@
+body {
+    font-family: "vazir", "vazir-medium", serif !important;
+}
+.hero-framework {
+    color: #7431FA;
+}
+.hero-image {
+    width: 450px;
+    height: 350px;
+}
+.analyze-icon {
+    color: #0d6efd;
+    background-color: #ebeafb;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+}
+.focused-service {
+    background-color: #1b2a4e;
+    color: #fff !important;
+}
+.gallery-sect {
+    background-color: #1b2a4e;
+}
+.carousel-img-set {
+    height: 400px;
+}
+.contact-image {
+    height: 280px;
+}
+.framework-icons {
+    padding-top: 50px;
+}
+.footer-link {
+    text-decoration: none;
+    color: #333;
+}
+.footer-header {
+    border-bottom: 2px solid #333333;
+    height: 35px;
+}
